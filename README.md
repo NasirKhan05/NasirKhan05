@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nasir Khan</h1>
 <h3 align="center">Flutter developer from Pakistan</h3>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaEz13UYMCT351iZCy1ceD5FEnSyzSTOIA6Q&s" alt="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaEz13UYMCT351iZCy1ceD5FEnSyzSTOIA6Q&s" width="450px" align="right" alt="">
 
 - 🔭 I’m currently working on **Flutter**
 
